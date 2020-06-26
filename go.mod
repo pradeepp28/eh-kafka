@@ -1,4 +1,4 @@
-module eh-kafka
+module github.com/pradeepp28/eh-kafka
 
 go 1.14
 
